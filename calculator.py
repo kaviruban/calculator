@@ -86,7 +86,7 @@ clear.grid(row=4,column=3)
 
 equal.grid(row=5,column=0,columnspan=4)
 
-
+mainloop()
 
 
 
